@@ -4,7 +4,7 @@ On circonscrit alors ce cercle unité par un carré dont l'aire vaut 𝐴(Square
 Supposons maintenant que nous choisissons un nombre énorme de points au hasard à l'intérieur du carré circonscrit, par exemple, en lançant des fléchettes ou en laissant tomber des gouttes de pluie dessus. Un certain nombre de ces points se retrouvera à l'intérieur de la zone décrite par le cercle tandis que le nombre restant de ces points se trouvera à l'extérieur (mais à l'intérieur du carré). Ainsi 𝑛(in) + 𝑛(out) = 𝑛 et la probabilité d'un point situé à l'intérieur de l'aire du cercle est 𝑛(in).
 
 
-<img src = "Images/Enoncé.PNG">
+<img src = "Images/Enoncé.png">
 
 
 Heuristiquement, on a 𝐴(Circle)/𝐴(Square)≈ 𝑛(in)/𝑛  et donc 𝜋≈4 𝑛(in)/𝑛. 
@@ -15,4 +15,4 @@ Soit la fonction suivante qui permet de simuler un point p avec deux coordonnée
 # Résultats :
 
 
-<img src = "Images/Comparaison.PNG">
+<img src = "Images/Compraison.png">
